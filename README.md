@@ -21,7 +21,7 @@
 
 ## 项目实现
 
-![单线程](https://github.com/qqycc/chat-room/single_design.png)
+![单线程](single_design.png)
 ![多线程](mul_design.png)
 
 + 服务端：采用线程池调度器执行服务器与客户端业务处理逻辑
